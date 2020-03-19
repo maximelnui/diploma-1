@@ -1,5 +1,5 @@
 <template>
-  <label for="">
+  <label>
     <span>Текст</span>
     <input :type="text">
   </label>
