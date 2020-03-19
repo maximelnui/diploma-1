@@ -1,6 +1,6 @@
 <template>
   <label for="">
-    <span></span>
+    <span>Текст</span>
     <input :type="text">
   </label>
 </template>
